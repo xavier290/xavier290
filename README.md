@@ -1,16 +1,22 @@
-### Hi there 👋
+### Xavier Alejandro Sanchez
+Hi, Xavi here and I'm a Front-end Web Developer looking for opportunities to work and grow as a Developer. I'm currently working on some cool projects as a web chat application with Django and React, with a small team of awesone Developers around the globe.
 
-<!--
-**xavier290/xavier290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills
+    # HTML
+    # CSS
+    # JavaScript
+    
+And I'm currently learning React.js 
 
-Here are some ideas to get you started:
+# Ny values
+    # Hard working person
+    # Great Listener
+    # self motivated 
+    # Respectful and supportive towards others
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Education
+    # Currently studying Electronic Engineering in the Universidad Nacional Autonoma de Nicaragua (UNAN-MANAGUA).
+
+# Languages
+    # Spanish
+    # English
