@@ -5,17 +5,13 @@ Hi, Xavi here and I'm a Front-end Web Developer looking for opportunities to wor
     # HTML
     # CSS
     # JavaScript
-    
-And I'm currently learning React.js 
+
+currently learning React.js 
 
 # Ny values
     # Hard working person
     # Great Listener
     # self motivated 
-    # Respectful and supportive towards others
-
-# Education
-    # Currently studying Electronic Engineering in the Universidad Nacional Autonoma de Nicaragua (UNAN-MANAGUA).
 
 # Languages
     # Spanish
