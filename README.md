@@ -8,7 +8,7 @@ Hi, Xavi here and I'm a Front-end Web Developer looking for opportunities to wor
 
 currently learning React.js 
 
-# Ny values
+# values
     # Hard working person
     # Great Listener
     # self motivated 
