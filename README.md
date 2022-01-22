@@ -5,6 +5,8 @@ Hi, Xavi here and I'm a Front-end Web Developer looking for opportunities to wor
     # HTML
     # CSS
     # JavaScript
+    
+ <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=xavier290&show_icons=true&theme=radical" />
 
 currently learning React.js 
 
