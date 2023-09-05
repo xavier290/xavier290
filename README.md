@@ -12,7 +12,7 @@
  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=xavier290&theme=radical&show_icons=true" width="50%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavier290&layout=compact&theme=radical" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavier290&layout=compact&theme=radical" width="40%" />
 </p>
 
 ---
