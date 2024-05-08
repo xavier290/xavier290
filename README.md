@@ -1,13 +1,11 @@
 <h2 align="center">Hi there, I'm Xavier</h2>
 <p align="center">
-   <a href="https://thealex.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
    <a href="https://codepen.io/xavier290"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />  </a>&nbsp;
-   <a href="https://twitter.com/makito031"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
  
 <br />
 <p>
-  I'm an electronic engineer student in his last year at college 😎, and a web developer enthusiastic since 2020, currently using technologies like HTML, CSS, JavaScript   and React.js. I love technology and i enjoy my time working with it, specially when it comes to frontend web development.
+ I'm an electronic engineer turned web developer proficient in HTML, CSS, JavaScript, and React.js. With a passion for frontend development since 2020, I specialize in creating intuitive and visually appealing user interfaces. Leveraging my engineering background, I approach coding challenges methodically, constantly refining my solutions. I'm dedicated to staying updated on the latest technologies and trends to deliver top-notch projects that exceed expectations.
 </p>
  
 <p align="center">
